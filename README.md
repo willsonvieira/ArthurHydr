@@ -21,7 +21,7 @@
   <img align="center" alt="Arthur-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-
+<br>
 
 <div>
   <a href="https://github.com/ArthurHydr">
